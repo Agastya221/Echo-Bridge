@@ -61,8 +61,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Abdullah-dev0/JusTalk.git
-cd JustTalk
+git clone https://github.com/Agastya221/Echo-Bridge.git
+cd Echo-Bridge
 ```
 
 **Installation**
